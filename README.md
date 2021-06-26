@@ -1,7 +1,7 @@
 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙈𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
 <!-- Footer -->
 <div align="left">
-<img alt="Axel A.L" height="200" width="100%" src="https://github.com/aryazakaria01/Arya Zakaria/raw/Arya Zakaria/Profile/iamaryazakaria.gif" width="200" height="140" align="right">
+<img alt="Arya Zakaria" height="200" width="100%" src="https://github.com/aryazakaria01/Arya Zakaria/raw/Arya Zakaria/Profile/iamaryazakaria.gif" width="200" height="140" align="right">
 <br />
 
 <h2 align="left">👨🏻‍💻 ᴀʙᴏᴜᴛ ᴍᴇ </h2>
