@@ -5,9 +5,9 @@
 <br />
 
 <h2 align="left">👨🏻‍💻 ᴀʙᴏᴜᴛ ᴍᴇ </h2>
-“𝙼𝚢 𝙵𝚞𝚕𝚕 𝙽𝚊𝚖𝚎𝚜 Arya Zakaria 𝚊𝚗𝚍 𝙸'𝚖 16 𝚢'𝚘.
-𝙸'𝚖 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚊𝚗𝚍 𝙼𝚘𝚛𝚎.
-𝙸’𝚖 𝙻𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝙷𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝚂𝚎𝚊𝚛𝚌𝚑 𝙴𝚗𝚐𝚒𝚗𝚎.”
+“𝐌𝐲 𝐅𝐮𝐥𝐥 𝐍𝐚𝐦𝐞 𝐈𝐬 𝐀𝐫𝐲𝐚 𝐙𝐚𝐤𝐚𝐫𝐢𝐚 𝐚𝐧𝐝 𝐈'𝐦 𝟏𝟔 𝐘𝐞𝐚𝐫𝐬 𝐎𝐥𝐝..
+𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐲𝐡𝐭𝐨𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐚𝐧𝐝 𝐌𝐨𝐫𝐞..
+𝐈'𝐦 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩 𝐖𝐢𝐭𝐡 𝐒𝐞𝐚𝐫𝐜𝐡 𝐄𝐧𝐠𝐢𝐧𝐞.”
 
 <h3 align="left">📩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h3>
 <img align="center" <a href="https://instagram.com/geezingsupport" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
