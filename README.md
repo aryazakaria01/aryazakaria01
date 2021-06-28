@@ -39,3 +39,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&locale=en" alt="aryazakaria01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryazakaria01&" alt="aryazakaria01" /></p>
+
+## Repo Stats
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=T-800-Userbot&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=ALQ-950-Userbot&theme=nightowl)
