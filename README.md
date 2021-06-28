@@ -41,11 +41,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryazakaria01&" alt="aryazakaria01" /></p>
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=grey)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=grey)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=grey)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=grey)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=T-800-Userbot&theme=grey)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=T-800-Userbot&theme=dark)
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
