@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm a good person in programmer**
 
-<h1 align="mid"> ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
+<h1 align="middle"> ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
     <abc>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
     </abc>
