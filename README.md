@@ -27,7 +27,7 @@
 <a href="https://fb.com/Arya Zakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arya zakaria" height="30" width="40" /></a>
 <a href="https://instagram.com/geezingsupport" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geezingusername" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnABOZwlDldZ54fTgx_6izA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r e n n gaming" height="30" width="40" /></a>
-<img align="center" <a href="https://t.me/Badboyanim" target="_blank"> <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=071A2C" alt="Telegram"/></a>
+<img align="center" <a href="https://t.me/Badboyanim" target="_blank"> <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 <img align="center" <a href="https://wa.me/+6281310952894" target="_blank"> <img src="https://img.shields.io/badge/Whatsapp-%23E4405F.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/></a>
 </p>
 
