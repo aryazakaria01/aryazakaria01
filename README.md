@@ -1,6 +1,9 @@
 <h1 align="center">Hi, My Name Is Arya Zakaria</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ## Awards
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryazakaria01&label=Profile%20views&color=0e75b6&style=flat" alt="aryazakaria01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryazakaria01" alt="aryazakaria01" /></a> </p>
