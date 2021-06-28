@@ -36,7 +36,7 @@
 
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&theme=radical"></a></p>
 
-<p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryazakaria01&theme=radical&layout=compact">
+<p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryazakaria01&theme=radical&layout=compact">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryazakaria01&" alt="aryazakaria01" /></p>
 
