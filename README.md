@@ -60,4 +60,4 @@
 </details>
 
 ## Device
-</head> tag: <link rel=”apple-touch-icon” href=”images/apple-touch-icon.png”>
+</head><link rel=”apple-touch-icon” href=”images/apple-touch-icon.png”>
