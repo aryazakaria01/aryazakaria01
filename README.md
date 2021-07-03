@@ -60,7 +60,4 @@
 </details>
 
 ## Device
-<link rel="apple-touch-icon-precomposed" href="apple-touch-iphone.png" />
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-ipad.png" />
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-iphone4.png" />
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-ipad-retina.png" />
+</head> tag: <link rel=”apple-touch-icon” href=”images/apple-touch-icon.png”>
