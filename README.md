@@ -58,3 +58,10 @@
 ![Metrics](https://metrics.lecoq.io/aryazakaria01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
+
+## Device
+<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="favicon.ico">
+<link rel="apple-touch-icon" type="image/png" href="icon.57.png"><!-- iPhone -->
+<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="icon.72.png"><!-- iPad -->
+<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="icon.114.png"><!-- iPhone4 -->
+<link rel="icon" type="image/png" href="icon.114.png"><!-- Opera Speed Dial, at least 144×114 px -->
