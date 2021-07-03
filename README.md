@@ -60,8 +60,7 @@
 </details>
 
 ## Device
-<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="favicon.ico">
-<link rel="apple-touch-icon" type="image/png" href="icon.57.png"><!-- iPhone -->
-<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="icon.72.png"><!-- iPad -->
-<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="icon.114.png"><!-- iPhone4 -->
-<link rel="icon" type="image/png" href="icon.114.png"><!-- Opera Speed Dial, at least 144×114 px -->
+<link rel="apple-touch-icon-precomposed" href="apple-touch-iphone.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-ipad.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-iphone4.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-ipad-retina.png" />
