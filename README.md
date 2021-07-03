@@ -60,13 +60,14 @@
 </details>
 
 ## Device
-<html>
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-</head>
-<body>
-<i class="fa fa-apple fa-5x"></i>
-<!--use the fa-lg (33% increase), fa-2x, fa-3x, fa-4x, or fa-5x classes-->
-</body>
-</html>
-
+![Apple](https://telegra.ph//file/0fbfdee1b74bbbb15b817.jpg)
+![Android](https://telegra.ph//file/6dd397aa11f13b1f5d8a4.jpg)
+![Imac Pro](https://telegra.ph//file/1cd55b1eefe095687699d.jpg)
+![Macbook Pro](https://telegra.ph//file/5ee83bd3e52cf4b1754fe.jpg)
+![Macbook Air](https://telegra.ph//file/d0b9ea0bcc10757ebb22c.jpg)
+![ROG](https://telegra.ph//file/c2c015d8c8d44ee5830a5.jpg)
+![Lenovo](https://telegra.ph//file/f6360f28bfca281b595c5.jpg)
+![Apple Icare](https://telegra.ph//file/bfccd1baa3e4ba3a643e2.jpg)
+![Iphone](https://telegra.ph//file/0601903de6efd4cdf1b6b.jpg)
+![Apple Pay](https://telegra.ph//file/d074a6a40af755937938b.jpg)
+![Ipad](https://telegra.ph//file/6b6087b276e36dc042d80.jpg)
