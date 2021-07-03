@@ -60,4 +60,5 @@
 </details>
 
 ## Device
-</head><link rel=”apple-touch-icon” href=”images/apple-touch-icon.png”>
+</head><link rel=”apple-touch-icon-precomposed” sizes=”114×114″ href=”/apple-touch-icon-114×114-precomposed.png”>
+
