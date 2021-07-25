@@ -50,7 +50,10 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=T-800-Userbot&theme=dark)
+
+##  🎶 **Currently Playing**
+[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
+
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
