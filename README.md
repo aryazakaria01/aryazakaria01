@@ -44,7 +44,8 @@
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryazakaria01&theme=radical&layout=compact">
 </a></p>    
-    
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryazakaria01&layout=compact" alt="aryazakaria01" /></p>    
+
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
