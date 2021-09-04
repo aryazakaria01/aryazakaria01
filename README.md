@@ -9,21 +9,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryazakaria01" alt="aryazakaria01" /></a> </p>
 
 ## Info
-- 🔭 I’m currently working on [SkyNet-Project](https://github.com/aryazakaria01/SkyNet-Project)
+- 🔭 I’m currently working on... 
 
 - 🌱 I’m currently learning **Pyhton, Linux, Telethon, Android, Javascript, Java, php,**
 
-- 👯 I’m looking to collaborate on [CyberDyne](https://github.com/aryazakaria01/CyberDyne-Userbot)
+- 👯 I’m looking to collaborate on... 
 
-- 🤝 I’m looking for help with [Music King](https://github.com/apisuserbot/Music-King)
+- 🤝 I’m looking for help with... 
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryazakaria01?tab=repositories](https://github.com/aryazakaria01?tab=repositories)
 
-- 💬 Ask me about **How to make a userbot**
+- 💬 Ask me about...
 
 - 📫 How to reach me **ardianrazak7107@gmail.com**
 
-- ⚡ Fun fact **I'm a good person in programmer**
+- ⚡ Fun fact **I'm a nub person in programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,9 +46,6 @@
 </a></p>    
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryazakaria01&layout=compact" alt="aryazakaria01" /></p>    
 
-
-
-
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
@@ -65,18 +62,5 @@
 ![Metrics](https://metrics.lecoq.io/aryazakaria01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
-
-## Device
-![Apple](https://telegra.ph//file/0fbfdee1b74bbbb15b817.jpg) 
-![Android](https://telegra.ph//file/6dd397aa11f13b1f5d8a4.jpg) 
-![Imac Pro](https://telegra.ph//file/1cd55b1eefe095687699d.jpg) 
-![Macbook Pro](https://telegra.ph//file/5ee83bd3e52cf4b1754fe.jpg) 
-![Macbook Air](https://telegra.ph//file/d0b9ea0bcc10757ebb22c.jpg) 
-![ROG](https://telegra.ph//file/c2c015d8c8d44ee5830a5.jpg) 
-![Lenovo](https://telegra.ph//file/f6360f28bfca281b595c5.jpg) 
-![Apple Icare](https://telegra.ph//file/bfccd1baa3e4ba3a643e2.jpg) 
-![Iphone](https://telegra.ph//file/0601903de6efd4cdf1b6b.jpg) 
-![Apple Pay](https://telegra.ph//file/d074a6a40af755937938b.jpg) 
-![Ipad](https://telegra.ph//file/6b6087b276e36dc042d80.jpg) 
 
 <a href="http://www.website.com"><img src="http://www.website.com/images/logo_16_x_16.gif" height="16" width= 
