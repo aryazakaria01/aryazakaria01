@@ -46,12 +46,6 @@
 </a></p>    
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryazakaria01&layout=compact" alt="aryazakaria01" /></p>    
 
-## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=CyberDyne-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=SkyNet-Project&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Stephanie-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=aryazakaria01&repo=Exvop-Userbot&theme=dark)
-
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
 
@@ -63,4 +57,26 @@
 
 </details>
 
-<a href="http://www.website.com"><img src="http://www.website.com/images/logo_16_x_16.gif" height="16" width= 
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
+<details>
+<!-- anilist_start-->
+ • <a href="https://anilist.co/anime/16498">Shingeki no Kyojin<a><br>
+ • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
+ • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>2
+ • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
+ • <a href="https://anilist.co/anime/21355">Re:Zero kara Hajimeru Isekai Seikatsu<a><br>
+ • <a href="https://anilist.co/anime/105333">Dr. STONE<a><br>
+ • <a href="https://anilist.co/anime/101759">Yakusoku no Neverland<a><br>
+ • <a href="https://anilist.co/anime/108725">Yakusoku no Neverland 2<a><br>
+ • <a href="https://anilist.co/anime/20853">Aldnoah.Zero 2<a><br>
+ • <a href="https://anilist.co/anime/20632">Aldnoah.Zero<a><br>
+ • <a href="https://anilist.co/anime/101351">Happy Sugar Life<a><br>
+ • <a href="https://anilist.co/anime/226">Elfen Lied<a><br>
+ • <a href="https://anilist.co/anime/19603">Fate/stay night: Unlimited Blade Works<a><br>
+ • <a href="https://anilist.co/anime/20792">Fate/stay night: Unlimited Blade Works 2nd Season<a><br>
+ • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
+ • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
+<!-- anilist_end-->
+</details>
+
+---------------------
