@@ -44,7 +44,6 @@
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryazakaria01&theme=radical&layout=compact">
 </a></p>    
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=aryazakaria01&layout=compact" alt="aryazakaria01" /></p>    
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/31v25ooo3yqa36h5mpctehltg27e)
