@@ -40,6 +40,40 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryazakaria01&" alt="aryazakaria01" /></p>
 
+## About me.
+```python
+class Aboutaryazakaria01():
+    def __init__(self):
+        self.name = ['Arya Zakaria']
+        self.country = ['Indonesia']
+        self.language = ['Indonesia', 'English', 'Japanese', 'Javanese']
+    def programming_languages(self):
+        return [
+            'Python', 'Bash', 'html', 'Ruby', 'JavaScript', 'CSS', 'C+', 'C++', 'Java'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker','Heroku', 'Railway', 'Digital Ocean'
+            'MongoDB', 'Azure', 'Termux', 'Visual Code', 'Swift'
+        ]
+    def operating_system(self):
+        return [
+            'Linux', 'Windows', 'Android', 'MacOS'
+        ]
+    def linux_distros(self):
+        return [
+            'Arch Linux', 'Ubuntu', 'Lubuntu', 'Kali Linux'
+        ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10'
+        ]
+    def mac_os(self):
+        return [
+            'macOS Mojave 10.14.6'
+        ]
+```
+
 # Stats
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api?username=aryazakaria01&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/aryazakaria01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryazakaria01&theme=radical&layout=compact">
