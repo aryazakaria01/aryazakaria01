@@ -2,14 +2,14 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
-<img src="https://telegra.ph/file/55fd8835a7e4cba161276.jpg" alt="Sexy Girl">
+<img src="https://telegra.ph/file/27891705e5d9ec63c626b.jpg" alt="Sexy Girl">
 
 ## Awards
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryazakaria01&label=Profile%20views&color=0e75b6&style=flat" alt="aryazakaria01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryazakaria01" alt="aryazakaria01" /></a> </p>
 
 ## Info
-- 🔭 I’m currently working on... 
+- 🔭 I’m currently working on Nat-Go
 
 - 🌱 I’m currently learning **Pyhton, Linux, Telethon, Android, Javascript, Java, php,**
 
