@@ -70,7 +70,7 @@ class Aboutaryazakaria01():
         ]
     def mac_os(self):
         return [
-            'macOS Mojave 10.14.6'
+            'Macbook Pro'
         ]
 ```
 
