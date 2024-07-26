@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, My Name Is Furry Chemistry</h1>
+<h1 align="center">Hi there, my name is Arya Zakaria</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
